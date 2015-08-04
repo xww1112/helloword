@@ -1,10 +1,10 @@
 {
-    "name": "xww/helloword",
+    "name": "xww1112/helloword",
     "description": "In order to study composer",
     "license": "MIT",
     "authors": [
         {
-            "name": "GeHou",
+            "name": "xww",
             "email": "***@gmail.com"
         }
     ],
@@ -14,10 +14,9 @@
     },
     "autoload": {
         "psr-4": {
-            "Ford\\Escape\\": "src/Ford/Escape",
-            "Ford\\Fusion\\": "src/Ford/Fusion",
-            "Ford\\Focus\\": "src/Ford/Focus",
-            "Ford\\Fiesta\\": "src/Ford/Fiesta"
+            "Xww\\Hello\\" : "src/Xww/Hello",
+            "Xww1\\Test\\" : "src/Xww1/Test",
+            "Xww1\\Test1\\" : "src/Xww1/Test1"
         }
     }   
 }
